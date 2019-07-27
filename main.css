@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "RadiantAntique";
+  src: url(RadiantAntique.ttf);
+}
+
+.title {
+  font-family: "RadiantAntique";
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+.flipIt {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.coinImage,
+.heads,
+.tails {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.coinImage {
+  height: 5rem;
+}
